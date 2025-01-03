@@ -5,7 +5,7 @@ export const profileConfig: ProfileConfig = {
     <script src="https://cdn.tailwindcss.com"></script>
     <body class="bg-gray-100 text-gray-800 font-sans flex flex-col items-center justify-center min-h-screen p-4">
 
-  <h1 id="title" class="text-4xl font-bold text-red-500">KopaChaser</h1>
+  <h1 id="title" class="text-4xl font-bold text-gray-500">KopaChaser</h1>
   <p class="text-sm text-gray-500/60 line-through">fvld slayer</p>
   <p class="text-lg mt-2">Chill guy</p>
   <p class="mt-2">Mono Shaco <br> 17y <br> discord: kopachaser</p>
